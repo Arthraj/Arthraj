@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arthraj
-- 👀 I’m interested in Problem Solving and Front End Development.
-- 🌱 I’m currently learning React Js and JavaScript.
+- 👀 I’m interested in Problem Solving and Full Stack Development.
+- 🌱 I’m currently learning Spring Boot and JAVA.
 - 💞️ I’m looking to collaborate and Open Source Web Dev Project.
 - 📫 Mail me at arthraj.01@gmail.com
 
