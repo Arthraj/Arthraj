@@ -1,5 +1,5 @@
 About Me 👋
-Greetings! I'm Arthraj Rathore, an enthusiast in the realm of Computer Science and Engineering. Currently immersed in my Bachelor's journey at the University Institute of Technology, RGPV, Bhopal, India, my trajectory in tech is marked by an insatiable curiosity and a knack for problem-solving.
+Greetings! I'm Arthraj Rathore, an enthusiast in the realm of Computer Science and Engineering. In my Bachelor's journey at the University Institute of Technology, RGPV, Bhopal, India, my trajectory in tech is marked by an insatiable curiosity and a knack for problem-solving.
 
 🚀 Technical Skills:
 I specialize in devising scalable solutions and fine-tuning performance in the dynamic landscape of software development. My proficiency spans languages like C++, JavaScript, and frameworks such as NodeJS and ReactJS. I thrive on exploring the intricacies of data structures, algorithms, and system architectures.
