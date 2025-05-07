@@ -1,22 +1,14 @@
 About Me 👋
-Greetings! I'm Arthraj Rathore, an enthusiast in the realm of Computer Science and Engineering. In my Bachelor's journey at the University Institute of Technology, RGPV, Bhopal, India, my trajectory in tech is marked by an insatiable curiosity and a knack for problem-solving.
+Hello! I’m Arthraj Rathore, a Full-Stack Developer with 2 years of experience crafting robust, scalable solutions across the entire software stack. My journey, rooted in a B.Tech in Computer Science from UIT-RGPV, has evolved into a dynamic career where I bridge cutting-edge frontend technologies like React.js and Next.js with backend systems powered by Node.js, FastAPI, and Python.
 
-🚀 Technical Skills:
-I specialize in devising scalable solutions and fine-tuning performance in the dynamic landscape of software development. My proficiency spans languages like C++, JavaScript, and frameworks such as NodeJS and ReactJS. I thrive on exploring the intricacies of data structures, algorithms, and system architectures.
+🚀 Technical Leadership: At Focdot Technologies, I revitalized a legacy Chrome extension by refactoring its React + FastAPI codebase, slashing user wait times by 65% through asynchronous job queues and real-time synchronization with Amazon Seller Central. Leading a 2-member team, I structured agile workflows, code readability, and resilient API integrations.
 
-🌐 Professional Exposure:
-During a recent stint as a Software Developer Intern, I delved into crafting scalable solutions and infusing AI-driven features to elevate system intelligence. Navigating complexities and optimizing performance at scale became second nature, underscoring my commitment to delivering robust and efficient software.
+🌐 Full-Stack Expertise: My work at Checko.ai and Walkover spans high-performance backend services (handling 1M+ records of database), AI-driven automation, and scalable database architectures using PostgreSQL, TimescaleDB, and Google BigQuery while reducing aggregation times by 85% through hypertables and cron jobs.
 
-In my role as a Software Trainee, I sharpened my skills in Java-EE, Java Web Services, and backend development using the Spring Framework. My affinity for databases includes working with PostgreSQL, MongoDB, and TimescaleDB, ensuring streamlined and optimized data processing.
+🔧 Innovation & Impact: From building a campus recruitment portal (React + MERN stack) to automating image downloads for 100k+ assets, I thrive on solving complex problems with clean, maintainable code. My projects emphasize seamless user experiences, robust REST APIs, and cross-functional collaboration.
 
-🛠️ Project Contributions:
-I actively engage in projects that showcase my knack for building web applications with a keen focus on frontend-backend harmony. These endeavors involve designing and developing feature-rich web applications, utilizing diverse technologies to ensure secure and seamless user experiences.
+🏆 Achievements: Recognized in hackathons (2nd place at GreenDeck 2022) and coding competitions (Google CodeJam, CodeChef), I balance technical depth with a passion for mentorship and continuous learning.
 
-🏆 Achievements:
-My journey includes achievements such as securing positions in hackathons and coding competitions, qualifying for competitive programming rounds, and maintaining a high rank in coding platforms. With a strong foundation in C and C++, I strive for excellence in coding challenges.
+🔗 Let’s Connect! Whether it’s discussing scalable architectures or collaborating on innovative solutions, reach out via LinkedIn or GitHub. Let’s build the future, one line of code at a time! 🚀
 
-🔗 Connect with Me:
-Let's connect and collaborate! Feel free to explore my repositories and get in touch. You can reach me via LinkedIn or drop me an email at arthraj.01@gmail.com.
-
-Thanks for stopping by, and happy coding! 🚀
-
+P.S. Always happy to chat about system design, performance optimization, or the latest in AI/ML integrations!
