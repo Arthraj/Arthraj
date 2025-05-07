@@ -10,5 +10,5 @@ Hello! I’m Arthraj Rathore, a Full-Stack Developer with 2 years of experience 
 🏆 Achievements: Recognized in hackathons (2nd place at GreenDeck 2022) and coding competitions (Google CodeJam, CodeChef), I balance technical depth with a passion for mentorship and continuous learning.
 
 🔗 Let’s Connect! Whether it’s discussing scalable architectures or collaborating on innovative solutions, reach out via LinkedIn or GitHub. Let’s build the future, one line of code at a time! 🚀
-
+LinkedIn - https://www.linkedin.com/in/arthraj-rathore/
 P.S. Always happy to chat about system design, performance optimization, or the latest in AI/ML integrations!
